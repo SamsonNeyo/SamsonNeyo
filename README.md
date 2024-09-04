@@ -1,6 +1,17 @@
-Hi there 👋, My name is Samson Neyo Obur.
-I am a Full-Stack Developer.
-I love learning and collaborating with others, I strive for excellent design and creativity.
+### Hi there 👋, My name is Samson Neyo Obur.
+#### I am a Full-Stack Developer At VinecomConnect.LTD
+![I am a Full-Stack Developer At VinecomConnect.LTD](https://pbs.twimg.com/profile_banners/1432410298699460612/1725472585/1500x500)
+
+I am a Full-Stack Developer. I love learning and collaborating with others, I strive for excellent design and creativity.
+
+Skills: JAVA/JS / BOOTSTRAP / JS / HTML / CSS
+
+
+
+
+
+
+
 ____________________________________________________________________________________________
 Skills:
 
