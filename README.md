@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Onyango Samson Obur
-#### I am a Full-Stack Developer.
+Hi there 👋, My name is Samson Neyo Obur.
+I am a Full-Stack Developer.
 I love learning and collaborating with others, I strive for excellent design and creativity.
 ____________________________________________________________________________________________
 Skills:
