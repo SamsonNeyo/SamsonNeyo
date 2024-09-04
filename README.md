@@ -8,6 +8,8 @@ I am a Full-Stack Developer. I love learning and collaborating with others, I st
 ____________________________________________________________________________________________
 - 📫 How to reach me **onyangosamsonobur@gmail.com**
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsonneyo&hide=contribs,prs)
+_____________________________________________________________________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/samsonneyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samsonneyo" height="30" width="40" /></a>
