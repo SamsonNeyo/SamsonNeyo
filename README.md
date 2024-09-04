@@ -22,8 +22,8 @@ ________________________________________________________________________________
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsonneyo&show_icons=true&locale=en&layout=compact" alt="samsonneyo" /></p>
 ____________________________________________________________________________________________
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonneyo&hide_progress=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 _____________________________________________________________________________________________
 ![SamsonNeyo's Stats](https://github-readme-stats.vercel.app/api?username=SamsonNeyo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
