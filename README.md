@@ -7,8 +7,7 @@ I am a Full-Stack Developer. I love learning and collaborating with others, I st
 
 ____________________________________________________________________________________________
 - 📫 How to reach me **onyangosamsonobur@gmail.com**
-_![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsonneyo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-____________________________________________________________________________________________
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/samsonneyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samsonneyo" height="30" width="40" /></a>
@@ -29,7 +28,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 ![SamsonNeyo's Stats](https://github-readme-stats.vercel.app/api?username=SamsonNeyo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SamsonNeyo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamsonNeyo&theme=vue-dark&hide_border=true)
-
+_![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsonneyo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
