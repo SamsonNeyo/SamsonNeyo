@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Samson Neyo Obur.
 I am a Full-Stack Developer. I love learning and collaborating with others, I strive for excellent design and creativity.
 _____________________________________________________________________________________________
-![I am a Full-Stack Developer At VinecomConnect.LTD](https://pbs.twimg.com/profile_banners/1432410298699460612/1726118825/1500x500)
+![I am a Full-Stack Developer At VinecomConnect.LTD](https://pbs.twimg.com/profile_banners/1432410298699460612/1727608065/1500x500)
 
 
 
