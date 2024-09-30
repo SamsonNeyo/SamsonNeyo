@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samson Neyo Obur.
+## Hi there (https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif), I'm Samson Neyo Obur.
 I am a Full-Stack Developer. I love learning and collaborating with others, I strive for excellent design and creativity.
 _____________________________________________________________________________________________
 ![I am a Full-Stack Developer At VinecomConnect.LTD](https://pbs.twimg.com/profile_banners/1432410298699460612/1727608065/1500x500)
